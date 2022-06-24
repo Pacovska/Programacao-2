@@ -1,0 +1,3 @@
+C:/Users/pacov/Desktop/C-C++/Programacao-2/cmake-build-debug/CMakeFiles/Programacao_2.dir
+C:/Users/pacov/Desktop/C-C++/Programacao-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pacov/Desktop/C-C++/Programacao-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
